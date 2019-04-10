@@ -1,0 +1,13 @@
+dataset/*
+.*
+!.gitignore
+work/*TF*
+**/*pycache*
+work/output*
+work/results*
+work/wordEmb/results*
+work/wordEmb/*llWords*
+work/wordEmb/final/results*
+work/wordEmb/final/article*
+work/wordEmb/final/publisher*
+

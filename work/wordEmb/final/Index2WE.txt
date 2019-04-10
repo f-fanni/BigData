@@ -1,0 +1,10 @@
+1: sentic2vec.csv
+2: embeddings_snap_s128_e15.txt
+3: embeddings_snap_s128_e30.txt
+4: embeddings_snap_s128_e50.txt
+5: embeddings_snap_s256_e15.txt
+6: embeddings_snap_s256_e30.txt
+7: embeddings_snap_s256_e50.txt
+8: embeddings_snap_s512_e15.txt
+9: embeddings_snap_s512_e30.txt
+10: embeddings_snap_s512_e50.txt
